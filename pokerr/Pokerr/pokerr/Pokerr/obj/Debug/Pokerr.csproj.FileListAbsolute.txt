@@ -1,0 +1,17 @@
+E:\С#_Projects\pokerr\Pokerr\bin\Debug\Pokerr.exe.config
+E:\С#_Projects\pokerr\Pokerr\bin\Debug\Pokerr.exe
+E:\С#_Projects\pokerr\Pokerr\bin\Debug\Pokerr.pdb
+E:\С#_Projects\pokerr\Pokerr\obj\Debug\Pokerr.csprojAssemblyReference.cache
+E:\С#_Projects\pokerr\Pokerr\obj\Debug\MainWindow.g.cs
+E:\С#_Projects\pokerr\Pokerr\obj\Debug\App.g.cs
+E:\С#_Projects\pokerr\Pokerr\obj\Debug\Pokerr_MarkupCompile.cache
+E:\С#_Projects\pokerr\Pokerr\obj\Debug\Pokerr_MarkupCompile.lref
+E:\С#_Projects\pokerr\Pokerr\obj\Debug\MainWindow.baml
+E:\С#_Projects\pokerr\Pokerr\obj\Debug\Pokerr.g.resources
+E:\С#_Projects\pokerr\Pokerr\obj\Debug\Pokerr.Properties.Resources.resources
+E:\С#_Projects\pokerr\Pokerr\obj\Debug\Pokerr.csproj.GenerateResource.cache
+E:\С#_Projects\pokerr\Pokerr\obj\Debug\Pokerr.csproj.CoreCompileInputs.cache
+E:\С#_Projects\pokerr\Pokerr\obj\Debug\Pokerr.exe
+E:\С#_Projects\pokerr\Pokerr\obj\Debug\Pokerr.pdb
+E:\С#_Projects\pokerr\Pokerr\obj\Debug\PlayWindow.g.cs
+E:\С#_Projects\pokerr\Pokerr\obj\Debug\PlayWindow.baml
